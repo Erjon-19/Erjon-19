@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Erjon-19
 - 👀 I’m interested in Software Dev and Data Science
-- 🌱 I’m currently learning TensorFlow 2.0
-- 💞️ I’m looking to collaborate on Google SOC
+- 🌱 I’m currently doing my thesis
 - 📫 How to reach me email: eriontsani01@gmail.com
 
 <!---
