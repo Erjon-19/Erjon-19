@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 **✨Technologies✨**
 
 <code><img height="20" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/docker/docker.github.io/master/images/logo-docker-main.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 
