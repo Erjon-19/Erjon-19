@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Erjon-19
+- 👋 Hi, I’m Erion
 - 👀 I’m interested in Software Dev and Data Science
 - 🌱 I’m currently doing my thesis
 - 📫 How to reach me email: eriontsani01@gmail.com
