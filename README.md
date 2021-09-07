@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 <code><img height="22" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/gradio-app/gradio/master/frontend/src/static/img/logo.svg"></code>
+<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
+<i class="fab fa-linux"></i>
