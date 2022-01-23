@@ -1,5 +1,5 @@
-- 👋 Hi, my name is @Erion
-- 👀 I’m interested in Software Dev and Data Science
+- 👋 Hi, my name is @Erion-Elias
+- 👀 I’m interested in Software Engineering!!!
 - 🌱 Currently started working as Data & Analytics 
 - 📫 How to reach me email: eriontsani01@gmail.com
 
