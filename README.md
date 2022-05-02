@@ -1,6 +1,6 @@
 - 👋 Hi, my name is @Erion-Elias
 - 👀 I’m interested in Data Science & Software Engineering!!!
-- 🌱 Currently started working as Data & Analytics Consultant
+- 🌱 Currently working as Data & Analytics Consultant
 - 📫 How to reach me email: eriontsani01@gmail.com
 
 <!---
