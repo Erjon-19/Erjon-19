@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 **✨Technologies✨**
 
 <!--Blue Prism, Power BI, Azure Devops, Pytorch, Docker, Colab, Jupyter, Gradio, Linux, GitKraken, Filezila-->
-<code><img height="22" src="https://store-images.s-microsoft.com/image/apps.8188.a21fcd61-4dcb-4bab-83d3-da5f491b839e.00d32152-3a69-472e-9a57-344f1f200bbe.f741cedd-e029-48a7-a3bc-eae7e09e3614"></code>
+<code><img height="22" src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png"></code>
 <code><img height="22" src="https://e7.pngegg.com/pngimages/327/384/png-clipart-power-bi-business-intelligence-microsoft-azure-microsoft-dynamics-cloud-computing-cloud-computing-angle-text.png"></code>
 <code><img height="22" src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png"></code>
 <code><img height="18" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg"></code>
