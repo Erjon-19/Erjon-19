@@ -1,14 +1,14 @@
-- 👋 Hi, my name is @Erion-Elias
-- 👀 I’m Exptert in Data Science & Software Engineering!!!
-- 🌱 Currently working as Data & Analytics Consultant
-- 📫 How to reach me email: eriontsani01@gmail.com
+- 👋 Hi, my name is @Erion-Elias Tsani
+- 👀 I’m enthusiast in the fields of Data Science & Software Engineering!!!
+- 🌱 Currently working as a Data & Analytics Consultant
+- 📫 How you can reach me {email} : eriontsani01@gmail.com
 
 <!---
 Erjon-19/Erjon-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-**✨Technologies✨**
+**✨Used Technologies✨**
 
 <!--Blue Prism, Power BI, Azure Devops, Pytorch, Docker, Colab, Jupyter, Gradio, Linux, GitKraken, Filezila-->
 <code><img height="22" src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png"></code>
