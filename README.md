@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 <code><img height="22" src="https://friconix.com/png/fi-xnsuxl-jupyter-notebook.png"></code>
 <code><img height="22" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfGHDG-dX3ZcnYZv4k0ouRPQltrU0FjWc1FTDoWS-KybYY4IIk"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
-<code><img height="26" src="https://www.gitkraken.com/wp-content/uploads/2021/06/gitkraken-logo-light-sq.png"></code>
+<code><img height="26" src="https://www.gitkraken.com/wp-content/uploads/2021/06/gitkraken-logo-dark-sq.svg"></code>
 <code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg"></code>
