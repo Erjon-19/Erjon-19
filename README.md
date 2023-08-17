@@ -1,7 +1,7 @@
 - 👋 Hi, my name is @Erion-Elias Tsani
 - 👀 I’m enthusiast in the fields of Data Science & Software Engineering!!!
-- 🌱 Currently working as a Data & Analytics Consultant
-- 📫 How you can reach me {email} : eriontsani01@gmail.com
+- 🌱 Currently working as a RPA Consultant
+- 📫 How you can reach me {email} : erion.elias.tsani@gmail.com
 
 <!---
 Erjon-19/Erjon-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
 <code><img height="26" src="https://www.gitkraken.com/wp-content/uploads/2021/06/gitkraken-logo-dark-sq.svg"></code>
 <code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg"></code>
+
+**✨Languages✨**
+
+Python, C/C++, Java, (Html, Css, Javascript, php), Sql, Matlab, Assembly
