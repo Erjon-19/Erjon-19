@@ -1,7 +1,7 @@
-- 👋 Hi, my name is @Erion-Elias Tsani
+- 👋 Hi, my name is @Erjon Ilias Cani
 - 👀 I’m enthusiast in the fields of Data Science & Software Engineering!!!
-- 🌱 Currently working as a RPA Consultant
-- 📫 How you can reach me {email} : erion.elias.tsani@gmail.com
+- 🌱 Currently working as a RPA Developer
+- 📫 How you can reach email: erjon.ilias.cani@gmail.com 
 
 <!---
 Erjon-19/Erjon-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
