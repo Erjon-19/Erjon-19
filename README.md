@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 **✨Used Technologies✨**
 
-<!--Windows Server, SQL Server, IIS, notepad++, SSIS, SSRS, PBIRS, Blue Prism, Power BI, Azure Devops, Pytorch, Docker, Colab, Jupyter, Gradio, Linux, GitKraken, Filezila-->
+Windows Server, SQL Server, IIS, notepad++, SSIS, SSRS, PBIRS, Blue Prism, Power BI, Azure Devops, Pytorch, Docker, Colab, Jupyter, Gradio, Linux, GitKraken, Filezila
 <code><img height="32" src="https://commons.wikimedia.org/wiki/File:Windows_Server_2022_Logo.png#/media/File:Windows_Server_2022_Logo.png"></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png"></code>
 <code><img height="32" src="https://www.freeiconspng.com/uploads/excel-png-office-xlsx-icon-3.png"></code>
